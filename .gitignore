@@ -43,3 +43,5 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
+phase-0-html-issue-bot-9000-lab-new/
+phase-0-html-issue-bot-9000-lab/
